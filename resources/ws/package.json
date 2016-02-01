@@ -1,0 +1,14 @@
+{
+  "name": "ws-akreditasi-s1",
+  "version": "1.0.0",
+  "description": "Web Service for Akreditasi S1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Akreditasi"
+  ],
+  "author": "Eko Junaidi Salam <eko_junaidisalam@live.com> (http://ekojunaidisalam.com)",
+  "license": "ISC"
+}
